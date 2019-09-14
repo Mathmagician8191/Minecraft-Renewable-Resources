@@ -1,0 +1,2 @@
+execute at @e[type=minecraft:falling_block,nbt={BlockState:{Name:"minecraft:anvil"}}] run fill ~ ~-0.4 ~ ~ ~-0.4 ~ minecraft:sand replace minecraft:cobblestone
+execute at @e[type=minecraft:small_fireball] run fill ~-0.5 ~-0.5 ~-0.5 ~0.5 ~0.5 ~0.5 minecraft:netherrack replace minecraft:cobblestone
