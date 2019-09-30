@@ -1,0 +1,14 @@
+{
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:creeper_head"
+            },
+			{
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:creeper_spawn_egg"
+        }
+    }

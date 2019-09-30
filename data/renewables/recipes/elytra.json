@@ -1,0 +1,19 @@
+{
+        "type": "crafting_shaped",
+        "pattern": [
+            "#T#",
+            "# #",
+            "# #"
+        ],
+        "key": {
+            "T": {
+                "item": "minecraft:dragon_head"
+            },
+            "#": {
+                "item": "minecraft:phantom_membrane"
+            }
+        },
+        "result": {
+            "item": "minecraft:elytra"
+        }
+    }

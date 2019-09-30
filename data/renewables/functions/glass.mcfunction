@@ -1,0 +1,2 @@
+execute at @e[type=minecraft:arrow] run fill ~ ~-0.4 ~ ~ ~-0.4 ~ minecraft:air replace #renewables:panes
+execute at @e[type=minecraft:trident] run fill ~ ~-0.4 ~ ~ ~-0.4 ~ minecraft:air replace #renewables:panes

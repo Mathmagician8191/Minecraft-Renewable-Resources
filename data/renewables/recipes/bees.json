@@ -1,0 +1,19 @@
+{
+        "type": "crafting_shaped",
+        "pattern": [
+            "###",
+            "#X#",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:honeycomb"
+            },
+            "X": {
+                "item": "minecraft:bee_hive"
+            }
+        },
+        "result": {
+            "item": "minecraft:bee_nest"
+        }
+    }

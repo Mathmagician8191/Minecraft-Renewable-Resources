@@ -1,0 +1,35 @@
+{
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            },
+			{
+                "item": "minecraft:dragon_egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:dragon_head"
+        }
+    }

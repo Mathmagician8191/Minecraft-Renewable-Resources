@@ -1,0 +1,14 @@
+{
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:wither_skeleton_skull"
+            },
+			{
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:wither_skeleton_spawn_egg"
+        }
+    }

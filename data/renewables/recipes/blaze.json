@@ -1,0 +1,19 @@
+{
+        "type": "crafting_shaped",
+        "pattern": [
+            "###",
+            "#X#",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:gravel"
+            },
+            "X": {
+                "item": "minecraft:egg"
+            }
+        },
+        "result": {
+            "item": "minecraft:silverfish_spawn_egg"
+        }
+    }
